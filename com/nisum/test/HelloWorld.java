@@ -6,9 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
     System.out.prinln("heello branch1")
     System.out.println("second update");
-    System.out.println("master update");
-    
-    System.out.prinln("foorth master merge");
+ System.out.println("new merge from branch")
 	}
 
 }
