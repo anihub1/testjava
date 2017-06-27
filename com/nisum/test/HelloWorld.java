@@ -7,6 +7,7 @@ public class HelloWorld {
     System.out.prinln("heello branch1")
     System.out.println("second update");
     System.out.println("master update")
+    System.out.println("3rd branch update");
 	}
 
 }
